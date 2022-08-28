@@ -1,0 +1,40 @@
+.register {
+    background-color: white !important;
+    width: 1440px;
+    max-width: 100%;
+    max-height: 100%;
+    height: 700px;
+}
+
+.register_input {
+    font-weight: 400 !important;
+    font-size: 14px !important;
+    line-height: 33px !important;
+    color: rgba(0, 48, 46, 0.53) !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.register_button {
+    background: #00302E;
+    border-radius: 5px;
+    height: 40px;
+    border: none;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #FBDDBB;
+}
+
+.register_text {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 33px;
+    text-align: right;
+    color: rgba(0, 48, 46, 0.91);
+}
+
+.register_text span {
+    font-weight: 400;
+}

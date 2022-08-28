@@ -1,0 +1,35 @@
+.footer {
+    background-color: #0B0D17;
+    ;
+}
+
+.footer h3 {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #F4F5F7;
+}
+
+.footer ul li {
+    font-weight: 400;
+    padding: 5px 0;
+    font-size: 14px;
+    line-height: 24px;
+    color: #EEEFF4;
+}
+
+.below {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #D9DBE1;
+}
+
+.icons {
+    margin: 0 5px;
+}
+
+.store {
+    padding: 10px 0;
+    border-radius: 20px;
+}

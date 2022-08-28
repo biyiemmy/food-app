@@ -1,0 +1,25 @@
+.navbar_text {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+}
+
+.nav_link {
+    font-size: 21px;
+    font-weight: 500;
+    line-height: 33px;
+}
+
+.nav_links {
+    text-decoration: none;
+    padding: 0 20px;
+    color: white;
+}
+
+.nav_links:hover {
+    color: #FBDDBB;
+}
+
+.nav_links:focus {
+    color: #FBDDBB;
+}

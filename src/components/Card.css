@@ -1,0 +1,12 @@
+.card_text {
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 33px;
+    color: #FBDDBB;
+}
+
+.card_subtext {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+}

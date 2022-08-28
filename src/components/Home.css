@@ -1,0 +1,50 @@
+.home_text h4 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 77px;
+}
+
+.home_text h4 span {
+    color: #FBDDBB;
+}
+
+.home_text p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    color: rgba(255, 255, 255, 0.74);
+}
+
+.home_middle h5 {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 33px;
+}
+
+.home_middle p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    color: rgba(255, 255, 255, 0.83);
+}
+
+.update_text {
+    background-color: #F7F7F7 !important;
+    color: #B2B2B2 m !important;
+    text-align: center;
+    font-weight: 400 !important;
+    font-size: 18px;
+    color: #B2B2B2 !important;
+    line-height: 21px !important;
+}
+
+.update_button {
+    background-color: #FBDDBB !important;
+    font-weight: 500 !important;
+    font-size: 18px;
+    line-height: 21px !important;
+    text-align: center;
+    color: #00302E !important;
+}
